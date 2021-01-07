@@ -7,8 +7,7 @@
 
 }
 body{
-    width: 100%;
-    margin: 0px;
+    margin: 0%;
     padding: 0px;
     
 }
@@ -48,11 +47,7 @@ button a{
     height: 500px;
 background-color: rgb(252, 239, 239);
 }
-.buttom-section{
-    width: 100%;
-    height: 500px;
-background-color: rgb(247, 244, 244);
-}
+
 
 .half-width{
     float: left;
@@ -63,16 +58,16 @@ background-color: rgb(247, 244, 244);
     margin-left: 6%;
     
 }
-.navbar{
 
+.navbar{
     width: 100%;
-    margin-left: 70%;
-    
+    text-align: right;
+    margin-bottom: 30px; 
 }
-.top-section .navbar ul li{
-    display:inline-block;
-    padding: 5px;
-    margin: 10px;
+.navbar li{
+    display: inline;
+    margin-left:20px ;
+    margin-right: 10px;
     color: rgb(12, 12, 12);
     font-size: 20px;
 }
@@ -187,18 +182,23 @@ button a{
 .skill h3{
    text-align: center;
 }
+
+
+.buttom-section{
+    width: 100%;
+    height: 500px;
+background-color: rgb(247, 244, 244);
+}
+
+
 .chat{
     height: 200px;
-    width: 100%;
+    width: 75%;
     background-image: url("shapes/Group_33094_1.png");
     background-repeat: no-repeat;
     background-size: 65%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 25%;
     margin-top: 10%;
-    margin-bottom: 0px;
-    padding-top: 2%;
-    padding-left: 3%;
 
 }
 .chat h1{
@@ -214,13 +214,13 @@ button a{
     height: 50px;
     border: 1px solid palegoldenrod;
     border-radius: 10px;
-    margin: 60px 0px 10px 20%;
+    margin: 60px 0px 10px 12%;
     color: white;
     background-color: rgb(4, 211, 247);
 }
 
 footer{
-    margin-top: 8%;
+    margin-top: 3%;
     text-align: center;
     margin-bottom: 3%;
 }
