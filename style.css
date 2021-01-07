@@ -7,9 +7,10 @@
 
 }
 body{
+    width: 100%;
     margin: 0px;
-    margin-top: 15px;
     padding: 0px;
+    
 }
 p{
     font-family: 'Open Sans', sans-serif;
@@ -34,7 +35,7 @@ button a{
 .top-section{
     width: 100%;
     height: 1000px;
-    background-color: rgb(240, 231, 217);
+    background-color:#f8f2ee;
     padding-top: 1%;
 }
 .mid-section{
@@ -61,6 +62,19 @@ background-color: rgb(247, 244, 244);
     padding: 5px;
     margin-left: 6%;
     
+}
+.navbar{
+
+    width: 100%;
+    margin-left: 70%;
+    
+}
+.top-section .navbar ul li{
+    display:inline-block;
+    padding: 5px;
+    margin: 10px;
+    color: rgb(12, 12, 12);
+    font-size: 20px;
 }
 
 .top-section img{
@@ -101,7 +115,7 @@ background-color: rgb(247, 244, 244);
     width: 280px;
     height: 60px;
     border-radius: 15px;
-    background-color: #F59660;
+    background-color: #FCD662;
 }
 .top-section .half-width button img{
     display: inline;
