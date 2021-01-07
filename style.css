@@ -1,0 +1,236 @@
+
+
+
+
+.h-tage{
+    font-family: 'Playfair Display', serif;
+
+}
+body{
+    margin: 0px;
+    margin-top: 15px;
+    padding: 0px;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 500;
+}
+h1{
+    font-size: 40px;
+    margin: 0px;
+}
+button{
+    text-align: center;
+    font-weight: 800;
+   
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+.top-section{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(240, 231, 217);
+    padding-top: 1%;
+}
+.mid-section{
+    width: 100%;
+    height: 530px;
+    background-color: rgb(247, 235, 214);
+}
+.skill-section{
+    width: 100%;
+    height: 500px;
+background-color: rgb(252, 239, 239);
+}
+.buttom-section{
+    width: 100%;
+    height: 500px;
+background-color: rgb(247, 244, 244);
+}
+
+.half-width{
+    float: left;
+    display: block;
+    width: 40%;
+    height: 460px;
+    padding: 5px;
+    margin-left: 6%;
+    
+}
+
+.top-section img{
+    width: 100%;
+}
+
+
+.top-section .half-width .top-left-corner{
+    width: 80%;
+    text-align: justify;
+    margin-top: 25px;
+}
+.top-section .top-left-corner h2{
+    font-size: 40px;
+    color: orangered;
+    text-align: justify;
+    margin: 0px;
+}
+
+
+
+.top-section .half-width .top-left-corner button{
+    font-size: 24px;
+    width: 130px;
+    height: 60px;
+    border-radius: 15px;
+    background-color:#FF408B;
+}
+.top-section .half-width h3{
+    margin-top: 80px;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+.top-section .half-width button{
+    margin: 0;
+    padding: 3px;
+    font-size: 24px;
+    width: 280px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: #F59660;
+}
+.top-section .half-width button img{
+    display: inline;
+    width: 15px;
+    height: 20px;
+    margin-right: 10px;
+    padding: 0px;
+}
+button a{
+    text-decoration: none;
+}
+.mid-section h2{
+    font-size: 35px;
+    text-align: center;padding-top: 20px;
+    margin:0px;
+    color: #FF4500;
+    padding-top: 40px;
+    margin-bottom: 10px;
+ 
+}
+.skill-section h2{
+    font-size: 40px;
+    text-align: center;
+    margin:0px;
+    padding-top: 22px;
+    color: #e9c120;
+}
+.project{
+    float: left;
+    width: 25%;
+    height: 330px;
+    border-radius: 25px;
+    background-color: rgb(253, 252, 253);
+    color: black;
+    margin: 20px 0px 10px 4%;
+    padding: 20px;
+}
+
+.project img{
+    width: 100%;
+    height: 200px;
+    border-radius:8px;
+}
+.project h3{
+    font-size: 24px;
+    text-align: center;
+
+}
+.skill{
+    float: left;
+    width: 25%;
+    height: 250px;
+    border-radius: 25px;
+    background-color:#F5DEB3;
+    color: black;
+    margin: 30px 0px 10px 4%;
+    padding: 20px;
+
+}
+.skill img{
+    display: block;
+    width: 90px;
+    height: 70px;
+    background-color: rgb(250, 246, 250);
+    border: 1px solid rgb(155, 138, 138);
+    border-radius:15px; 
+    margin: 0 auto;   
+}
+.skill h3{
+   text-align: center;
+}
+.chat{
+    height: 200px;
+    width: 100%;
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: 65%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    margin-bottom: 0px;
+    padding-top: 2%;
+    padding-left: 3%;
+
+}
+.chat h1{
+    float: left;
+    margin-top: 60px;
+    margin-left: 2%;
+    color: white;
+    font-size: 50px;
+}
+.chat button{
+    float: left;
+    width: 90px;
+    height: 50px;
+    border: 1px solid palegoldenrod;
+    border-radius: 10px;
+    margin: 60px 0px 10px 20%;
+    color: white;
+    background-color: rgb(4, 211, 247);
+}
+
+footer{
+    margin-top: 8%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+footer h4{
+    font-size: 40px;
+    margin: 0;
+    margin-left: 40px;
+    padding: 0;
+}
+
+
+footer h5{
+    font-size: 16px;
+    margin-bottom: 7px;
+    color: rgb(219, 164, 91);
+    padding: 0;
+    margin-left: 50px;
+}
+footer ul li {
+    
+    display: inline-block;
+    margin: 5px 10px 5px 0px;
+    
+}
+footer img{
+    width: 40px;
+}
