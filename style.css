@@ -9,6 +9,7 @@
 body{
     margin: 0%;
     padding: 0px;
+    background-color: #F5F0ED;
     
 }
 p{
@@ -34,7 +35,7 @@ a{
 .top-section{
     width: 100%;
     height: 1000px;
-    background-color:#f8f2ee;
+    background-color:#f5f0ed;
     padding-top: 1%;
 }
 .mid-section{
@@ -44,10 +45,14 @@ a{
 }
 .skill-section{
     width: 100%;
-    height: 500px;
+    height: 460px;
 background-color: rgb(252, 239, 239);
 }
-
+.buttom-section{
+    width: 100%;
+    height: 500px;
+background-color: #f5f0ed;
+}
 
 .half-width{
     float: left;
@@ -184,11 +189,7 @@ button a{
 }
 
 
-.buttom-section{
-    width: 100%;
-    height: 500px;
-background-color: rgb(247, 244, 244);
-}
+
 
 
 .chat{
@@ -198,7 +199,7 @@ background-color: rgb(247, 244, 244);
     background-repeat: no-repeat;
     background-size: 65%;
     margin-left: 25%;
-    margin-top: 10%;
+    margin-top: 8%;
 
 }
 .chat h1{
